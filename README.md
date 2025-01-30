@@ -1,4 +1,4 @@
-# KS BootShop - Free Shopify Theme
+# Shopify Theme
 Free Shopify theme powered by the Bootstrap framework (v5), developed respecting <a rel="nofollow" href="https://shopify.dev/tutorials/review-theme-store-requirements">Shopify theme requirements</a>, accessibility best practices, and of course our own experience developing high-quality themes for more than 15 years. We aim to make this project the most complete, robust, and awesome Shopify Theme for the Bootstrap framework.
 
 ## Highlighted features:
@@ -47,21 +47,13 @@ Ready to take your Shopify store to the next level with advanced features like:
 - Bundle Builder
 - and much more...
 
-[Browse our Shopify Themes](https://www.kondasoft.com/collections/shopify-themes)
-
-## Demo 
-https://ks-bootshop.myshopify.com
-
-## Download Theme
-https://www.kondasoft.com/collections/shopify-themes/products/ks-bootshop
-
 ## Installation
 **Note:** Please, make sure you are familiar with [Theme kit](https://shopify.github.io/themekit/), and official documentation before proceeding. We are assuming that at this point you have already installed the Theme Kit.
 
 ### 1- Clone this repository (download theme files)
 Create a new folder on your computer, `cd` to it, and run the following command to copy all theme files from our GitHub repository master branch. Note: Include the dot at the end of the command to clone into your current directory.
 
-`git clone https://github.com/kondasoft/ks-bootshop .`
+`https://github.com/itkikimomo23/shopify-theme-bootstrap .`
 
 ### 2- Create and configure theme with Theme Kit
 Run the following command to create a new theme in your Shopify store along with our theme files that you have just downloaded:
@@ -90,9 +82,3 @@ Now, you can compile the `bootstrap.scss` file that you have just modified using
 
 To deploy your changes on your Shopify store run the following Theme Kit command:
 `theme deploy` or: `theme watch`
-
-## Support
-Please submit a [new issue](https://github.com/kondasoft/ks-bootshop/issues/new) in case you want to submit a bug or feature request. Also, you can visit our [website](https://www.kondasoft.com/) for more help.
-
-## Copyright and license
-Copyright 2024 [kondasoft.com](https://www.kondasoft.com). The code was released under the [MIT License](https://github.com/kondasoft/ks-bootshop/blob/master/LICENSE).
